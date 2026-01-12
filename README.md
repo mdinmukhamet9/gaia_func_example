@@ -1,8 +1,4 @@
-# This code snippet was my first attempt on learning how we can use Ray Casting in order to 
-# simulate how real world scanners would scan the different objects
+# This code snippet was my first attempt on learning how we can use Ray Casting in order to simulate how real world scanners would scan the different objects
 
-# Provided functions are just basic idea how we can simulate the real scan of 3D object without just randomly 
-# creating PointClouds with sampling points how it was provided by basic instruction of Open3d.
-
-# This logic allows us to create close to real world setup where Object is scanned at specific points of view, and both
-# real world and simulated scans would give us similar Pointclouds that will be easier to registrate due to similar positions of scan
+Provided functions are just basic idea how we can simulate the real scan of 3D object without just randomly creating PointClouds with sampling points how it was provided by basic instruction of Open3d.
+This logic allows us to create close to real world setup where Object is scanned at specific points of view, and both real world and simulated scans would give us similar Pointclouds that will be easier to registrate due to similar positions of scan
